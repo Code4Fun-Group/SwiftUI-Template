@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MOBILE_BFF_API_KEY</key>
+	<string>$(MOBILE_BFF_API_KEY)</string>
+	<key>MOBILE_BFF_ENDPOINT</key>
+	<string>$(MOBILE_BFF_ENDPOINT)</string>
+</dict>
+</plist>

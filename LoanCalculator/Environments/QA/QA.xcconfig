@@ -1,0 +1,20 @@
+//
+//  QA.xcconfig
+//  POC
+//
+//  Created by Max Nguyen on 20/08/2022.
+//  Copyright © 2022 Techvify. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+IOS_APP_NAME = [QA] POC
+IOS_APP_ICON = AppIcon-QA
+IOS_BUNDLE_ID = com.namnnh.poc.qa
+MARKETING_VERSION = 1.0.0
+CURRENT_PROJECT_VERSION = 1
+
+// API
+MOBILE_BFF_ENDPOINT = https:/$()/qa.test.com/api
+MOBILE_BFF_API_KEY = 12345

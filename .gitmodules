@@ -1,0 +1,7 @@
+[submodule "Modules/Common"]
+	path = Modules/Common
+	url = https://github.com/Code4Fun-Group/Common.git
+[submodule "Modules/Networking"]
+	path = Modules/Networking
+	url = https://github.com/Code4Fun-Group/Networking.git
+	branch = release/2.0.0

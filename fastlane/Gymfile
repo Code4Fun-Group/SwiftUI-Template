@@ -1,0 +1,7 @@
+for_platform :ios do
+    workspace(ENV['APP_NAME'] + ".xcworkspace")
+    include_bitcode(true)
+    clean(true)
+    output_name(ENV['APP_NAME'])
+    derived_data_path("./DerivedData")
+end
