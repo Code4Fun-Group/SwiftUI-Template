@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB068FFE29F53C3500E7B098"
-               BuildableName = "POC.app"
-               BlueprintName = "LoanCalculator"
-               ReferencedContainer = "container:LoanCalculator.xcodeproj">
+               BuildableName = ".app"
+               BlueprintName = "SwiftUITemplate"
+               ReferencedContainer = "container:SwiftUITemplate.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -37,7 +37,7 @@
                BlueprintIdentifier = "CB06900E29F53C3600E7B098"
                BuildableName = "LoanCalculatorTests.xctest"
                BlueprintName = "LoanCalculatorTests"
-               ReferencedContainer = "container:LoanCalculator.xcodeproj">
+               ReferencedContainer = "container:SwiftUITemplate.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -48,7 +48,7 @@
                BlueprintIdentifier = "CB06901829F53C3600E7B098"
                BuildableName = "LoanCalculatorUITests.xctest"
                BlueprintName = "LoanCalculatorUITests"
-               ReferencedContainer = "container:LoanCalculator.xcodeproj">
+               ReferencedContainer = "container:SwiftUITemplate.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -68,9 +68,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB068FFE29F53C3500E7B098"
-            BuildableName = "POC.app"
-            BlueprintName = "LoanCalculator"
-            ReferencedContainer = "container:LoanCalculator.xcodeproj">
+            BuildableName = ".app"
+            BlueprintName = "SwiftUITemplate"
+            ReferencedContainer = "container:SwiftUITemplate.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -85,9 +85,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB068FFE29F53C3500E7B098"
-            BuildableName = "POC.app"
-            BlueprintName = "LoanCalculator"
-            ReferencedContainer = "container:LoanCalculator.xcodeproj">
+            BuildableName = ".app"
+            BlueprintName = "SwiftUITemplate"
+            ReferencedContainer = "container:SwiftUITemplate.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
