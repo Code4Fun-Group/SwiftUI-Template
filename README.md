@@ -10,6 +10,18 @@ TODO: Guide users through getting your code up and running on their own system. 
 3.	Latest releases
 4.	API references
 
+## Using template
+Follow command below for add submodule
+```
+git rm -r Modules/Common
+git rm -r Modules/Networking
+rm -rf Modules
+git submodule add https://github.com/Code4Fun-Group/Common.git Modules/Common
+git submodule add https://github.com/Code4Fun-Group/Networking.git Modules/Networking
+cd Modules/Networking
+git checkout release/1.0.0 (1.0.0 for Cocoapods, 2.0.0 for SPM)
+```
+
 ## Build and Test
 - Execute following command by sequence:
 ```swift
