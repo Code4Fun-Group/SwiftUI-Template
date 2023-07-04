@@ -4,10 +4,7 @@ excluded:
   - vendor
   - fastlane
   - Pods
-  - ClearKeepTests
-  - ClearKeepUITests
-  - ClearKeepUITestsLaunchTests
-  - Packages/Networking/Networking/Classes/Protobuf
+  - Modules
 disabled_rules:
   - vertical_parameter_alignment
   - function_parameter_count
