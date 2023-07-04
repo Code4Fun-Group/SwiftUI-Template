@@ -10,7 +10,7 @@ pipeline {
 	}
 
 	environment {
-		APP_NAME = "LoanCalculator"
+		APP_NAME = "SwiftUITemplate"
 	}
 
 // Update submodules
